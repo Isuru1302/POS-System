@@ -1,0 +1,27 @@
+
+
+.pointer{
+  cursor: pointer;
+}
+
+.red-btn{
+  background-color: red;
+  color: #ffffff;
+  padding: 0.1em 0.4em 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+.green-btn{
+  background-color: greenyellow;
+  color: #ffffff;
+  padding: 0.1em 0.4em 0.2em 0.4em;
+  border-radius: 4px;
+}
+
+.search-area input[type=text]{
+  padding: 0.5em;
+  border:1px solid #dddddd;
+  border-radius: 5px;
+}
+
+
