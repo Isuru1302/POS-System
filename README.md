@@ -1,6 +1,6 @@
 # POS-System
 
-Point of Sale system mobile shop to provide a good service to their customers and make their payments easily and efficiently while keeping daily records. 
+Point of Sale system for a mobile shop to provide a good service to their customers and make their payments easily and efficiently while keeping daily records. 
 
 ## Build Setup (Front-End)
 
